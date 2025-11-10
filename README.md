@@ -47,4 +47,5 @@ This system helps manage products, inventory, sales, and employees efficiently t
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/store-management.git
-cd store-management
+
+
